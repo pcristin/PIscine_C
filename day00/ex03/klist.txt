@@ -1,0 +1,3 @@
+Jan 28 09:34:34 2019  Jan 28 19:34:34 2019  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
+Jan 28 09:34:36 2019  Jan 28 19:34:34 2019  ldap/ldap-master.21-school.ru@21-SCHOOL.RU
+Jan 28 09:34:36 2019  Jan 28 19:34:34 2019  HTTP/storage-student.21-school.ru@21-SCHOOL.RU
